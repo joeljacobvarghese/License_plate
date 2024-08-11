@@ -1,0 +1,1 @@
+!python main.py --source Entry.mp4 --output_path output --timestamps 4,12
